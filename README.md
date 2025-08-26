@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there👋 Welcome to my page.
 
 <!--
 **CHartman04/CHartman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
